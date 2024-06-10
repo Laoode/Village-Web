@@ -30,7 +30,7 @@ https://github.com/Laoode/Village-Web/assets/119650090/9d75cf5a-9428-4fa3-aeed-9
     cd Village-Web
     ```
 3. Set up your local server environment (e.g., XAMPP, WAMP) and move the project files to the server's root directory.
-4. 4. Import the database from `desa_bungi.sql` file included in the repository.
+4. Import the database from `desa_bungi.sql` file included in the repository.
 
 
 ## 🏗️ Built With
