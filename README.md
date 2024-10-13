@@ -50,10 +50,9 @@ For any inquiries or feedback, please reach out to [Yudhy Prayitno](email:yudhyp
 
 This project is licensed under the MIT License.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
 
 ---
 
 Thank you for visiting my project! 😊
 
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H714OX25)
